@@ -1,6 +1,6 @@
 # Hi there 👋, I am Safeer Pilakool 👨‍💻
 
-A web developer living in Lagos, Nigeria 🇳🇬
+A self-taught fullstack software developer living in Dubai, UAE
 
 <a href="https://api.whatsapp.com/send?phone=2348074140979&text=Hello%20Olayemii,%20I%20got%20your%20contact%20from%20your%20Github%20profile" alt="Connect on Whatsapp"> 
     <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> 
